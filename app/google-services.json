@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96700109651",
+    "firebase_url": "https://jae-hwan.firebaseio.com",
+    "project_id": "jae-hwan",
+    "storage_bucket": "jae-hwan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96700109651:android:7e5b6bbf2399a49d0407a6",
+        "android_client_info": {
+          "package_name": "com.hosun0507.jaehwan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96700109651-q8s40k7sfi1dh2mot9tmhtsa74c7bmhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hosun0507.jaehwan",
+            "certificate_hash": "8e772f83831de0bee1044f53c94346319ef8c276"
+          }
+        },
+        {
+          "client_id": "96700109651-ekn3ui29g8di2mbrh1o3ednican03rmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHGe2aX5knt-HQgzK4WdHxNtfXuUi51Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96700109651-ekn3ui29g8di2mbrh1o3ednican03rmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

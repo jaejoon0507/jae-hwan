@@ -1,7 +1,6 @@
 package com.hosun0507.jaehwan;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
